@@ -28,3 +28,5 @@ touch questionaire.sh
 touch questionnaire.sh
 __vsc_prompt_cmd_original
 echo hello questionnaire
+sh questionnaire
+sh questionnaire.sh
